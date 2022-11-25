@@ -1,0 +1,16 @@
+//IMPORTE COLORS
+$orange:  #EB9150;
+$green:   #88C4B4;
+
+//IMPORT DARK & LIGHT COLORS
+$white:    #EEEEEE;
+$black:    #080404;
+
+//PRIMARY & SECONDARY COLORS
+$primary:       $orange;
+$secondary:     $green;
+$light:         $white;
+$dark:          $black;
+
+//IMPORT BOOTSTRAP + GOOGLE FONTS + REMIXICONS
+@import"../node_modules/bootstrap/scss/bootstrap.scss";

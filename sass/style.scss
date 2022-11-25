@@ -1,0 +1,10 @@
+@use'custom';
+
+.nav-font-pattaya {
+    font-family: 'Pattaya', sans-serif;
+    font-size: 36px;
+        .nav-logo {
+            width: 2rem;
+            height: 2rem;
+        }
+}

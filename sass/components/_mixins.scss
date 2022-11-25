@@ -1,0 +1,18 @@
+@use'../custom';
+
+
+@mixin link {
+    text-decoration: none;
+}
+
+@mixin hovered {
+    &:hover {
+        color: #263963;
+    }
+}
+
+@mixin visited {
+    &:visited {
+        color: #3B5998;
+    }
+}

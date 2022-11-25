@@ -1,0 +1,10 @@
+@use'../custom';
+@use'../components/mixins' as m;
+
+.s-m-fb {
+    @include m.link;
+}
+.s-m-hover {
+    @include m.hovered;
+    @include m.visited;
+}

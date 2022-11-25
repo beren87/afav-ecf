@@ -12,5 +12,20 @@ $secondary:     $green;
 $light:         $white;
 $dark:          $black;
 
-//IMPORT BOOTSTRAP + GOOGLE FONTS + REMIXICONS
+//IMPORT FONT-SIZE
+$font-size-root:              null;
+$font-size-base:              1rem; // Assumes the browser default, typically `16px`
+$font-size-sm:                $font-size-base * .875;
+$font-size-lg:                $font-size-base * 2.25;
+
+
+$navbar-brand-font-size:            $font-size-lg;
+
+//IMPORT FONT-FAMILY
+$font-family-base: 'Lato', sans-serif;;
+
+//IMPORT BOOTSTRAP 
 @import"../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+

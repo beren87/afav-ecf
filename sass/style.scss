@@ -1,10 +1,11 @@
+//import custom
 @use'custom';
 
-.nav-font-pattaya {
-    font-family: 'Pattaya', sans-serif;
-    font-size: 36px;
-        .nav-logo {
-            width: 2rem;
-            height: 2rem;
-        }
-}
+//import sections
+@import'sections/navbar';
+@import'sections/title-assoc';
+@import'sections/social-media';
+
+
+//import components
+@import'components/mixins';

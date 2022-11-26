@@ -25,7 +25,7 @@ https://www.npmjs.com/
 https://www.google.com/intl/fr_fr/chrome/
 * node.js pour compiler le sass en css
 https://nodejs.org/fr/
-* SASS pour le pré-processeur 
+* Le préprocesseur sass avec la syntaxe scss 
 https://sass-lang.com/
 * remixicon et flaticon pour les icônes et logo
 https://remixicon.com/

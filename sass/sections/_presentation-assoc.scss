@@ -1,0 +1,10 @@
+@use'../custom';
+@use'../components/mixins' as m;
+
+.h2-font-pattaya {
+    @include m.h2
+}
+
+.p-link {
+    @include m.link
+}

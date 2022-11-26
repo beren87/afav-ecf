@@ -1,0 +1,7 @@
+@use'../custom';
+@use'../components/mixins' as m;
+
+.redim-img {
+    width: 5.375rem; //86px
+    height: 5.375rem;// 86px
+}

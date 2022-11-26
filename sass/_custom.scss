@@ -24,6 +24,13 @@ $navbar-brand-font-size:            $font-size-lg;
 //IMPORT FONT-FAMILY
 $font-family-base: 'Lato', sans-serif;
 
+//IMPORT FONT-TITLE-SIZE
+$h1-font-size:                $font-size-base * 2.5;
+$h2-font-size:                $font-size-base * 2;
+$h3-font-size:                $font-size-base * 1.75;
+$h4-font-size:                $font-size-base * 1.5;
+$h5-font-size:                $font-size-base * 1.25;
+
 
 //IMPORT BOOTSTRAP 
 @import"../node_modules/bootstrap/scss/bootstrap.scss";

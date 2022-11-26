@@ -1,6 +1,6 @@
 @use'../custom';
 
-
+//social-media
 @mixin link {
     text-decoration: none;
 }
@@ -17,3 +17,7 @@
     }
 }
 
+//presentation-assoc
+@mixin h2 {
+    font-family: 'Pattaya', sans-serif;
+}

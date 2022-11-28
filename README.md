@@ -2,7 +2,7 @@
 # Présentation
 Je suis Berenger FERGUENIS, actuellement en formation chez STUDI depuis septembre 2022 en tant que Développeur Web et Web mobile Fullstack - Dart FLutter.
 # Projet à réaliser et objectifs
-Refonte du site AFAV (Association Française pour l'Archéologie du Verre) pour l'ECF d'entraînement STUDI 202 - Créer un site web avec HTML, CSS et le Framework Bootstrap - 
+Refonte du site AFAV (Association Française pour l'Archéologie du Verre) pour l'ECF d'entraînement STUDI 202 - Créer un site web avec HTML, CSS et la librairie Bootstrap v5.2 - 
 1. Réalisation de l'interface en mobile first et utilisation des médias queries pour la rendre adaptable a tous les formats d'écran.
 2. Un dépôt git avec des commit réguliers
 # Link
@@ -17,7 +17,7 @@ https://code.visualstudio.com/
 https://git-scm.com/downloads
 * GitHub pour le dépôt distant
 https://github.com/
-* Bootstrap v5.2 pour le responsive
+* Bootstrap v5.2 pour le responsive et son système de class
 https://getbootstrap.com/
 * npm pour les installations des dépendances 
 https://www.npmjs.com/

@@ -1,10 +1,10 @@
 @use'../custom';
 @use'../components/mixins' as m;
 
-.acc-font-base {
+.main_accession-paragraphe {
     @include m.font-base
 }
 
-.acc-link {
+.main_accession-link{
     @include m.link;
 }

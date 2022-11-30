@@ -1,11 +1,11 @@
 @use'../custom';
 @use'../components/mixins' as m;
 
-.h2-font-pattaya {
+.main_presentation-h2-font{
     @include m.h2
 }
 
-.p-link {
+.main_presentation-paragraphe-link {
     @include m.link
 }
 

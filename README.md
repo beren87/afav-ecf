@@ -6,7 +6,10 @@ Refonte du site AFAV (Association Française pour l'Archéologie du Verre) pour 
 1. Réalisation de l'interface en mobile first et utilisation des médias queries pour la rendre adaptable a tous les formats d'écran.
 2. Un dépôt git avec des commit réguliers
 # Link
+* Site officiel
 http://afaverre.fr/Afaverre/
+* Site refonte
+https://afav.netlify.app/index.html
 # Logiciels, sites et outils utilisés
 Pour cet ECF d'entraînement j'utilise 
 * FIGMA pour le maquettage

@@ -22218,6 +22218,10 @@ textarea.form-control-lg {
   font-size: 2.25rem;
 }
 
+.header_navba-brand-link {
+  text-decoration: none;
+}
+
 /*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
@@ -123506,6 +123510,25 @@ textarea.form-control-lg {
   text-decoration: none;
 }
 
+.main_actualites-under-img {
+  font-family: "Lato", sans-serif;
+}
+
+@media (min-width: 768px) {
+  .main-actualites-paragraphe-queries {
+    font-size: 0.813rem;
+  }
+}
+@media (min-width: 1024px) {
+  .main-actualites-paragraphe-queries {
+    font-size: 1rem;
+  }
+}
+@media (min-width: 1440px) {
+  .main-actualites-paragraphe-queries {
+    font-size: 1.375rem;
+  }
+}
 /*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors

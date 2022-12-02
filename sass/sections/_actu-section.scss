@@ -1,6 +1,7 @@
 @use'../custom';
 @use'../components/mixins' as m;
 
+// ACTUALITES #1 & #2 
 .main_actualites-paragraphe {
     @include m.little-font-size;
     
@@ -29,4 +30,26 @@
 
 .main_actualites-btn {
     @include m.link;
+}
+
+.main_actualites-under-img {
+    @include m.font-base;
+}
+
+// ACTUALITES #3
+@media (min-width:768px) {
+    .main-actualites-paragraphe-queries {
+        font-size: 0.813rem; //13px 
+    }
+}
+
+@media (min-width:1024px) {
+    .main-actualites-paragraphe-queries {
+        font-size: 1rem; //16px
+    }
+}
+@media (min-width:1440px) {
+    .main-actualites-paragraphe-queries {
+        font-size: 1.375rem; //22px
+    }
 }

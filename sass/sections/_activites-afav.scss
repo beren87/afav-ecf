@@ -1,0 +1,7 @@
+@use'../custom';
+@use'../components/mixins' as m;
+
+.main_activites-link-to-bulletin {
+    @include m.link;
+    @include m.hovered;
+}

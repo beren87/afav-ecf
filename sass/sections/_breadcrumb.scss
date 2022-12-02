@@ -1,0 +1,8 @@
+@use'../custom';
+@use'../components/mixins' as m;
+
+@media (max-width: 576px) {
+    .main_breadcrumb-queries {
+        font-size: 0.688rem; //11px
+    }
+}

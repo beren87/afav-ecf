@@ -34,3 +34,17 @@
 @mixin little-font-size {
     font-size: 0.875rem;//14px
 }
+
+//activites-afav
+@mixin link-bulletin {
+    &:hover{ 
+        color: #EB9150;
+    }
+}
+
+//etude-archeo
+@mixin sources {
+    font-size: 0.75rem;
+    margin-top: 0.25rem;
+    font-style: italic;
+}

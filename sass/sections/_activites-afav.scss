@@ -3,5 +3,9 @@
 
 .main_activites-link-to-bulletin {
     @include m.link;
-    @include m.hovered;
+    @include m.link-bulletin;
+}
+
+.main_activites-archeo {
+    @include m.link;
 }

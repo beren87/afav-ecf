@@ -1,0 +1,6 @@
+@use'../custom';
+@use'../components/mixins' as m;
+
+.main_etude-archeo-photographer {
+    @include m.sources; 
+}
